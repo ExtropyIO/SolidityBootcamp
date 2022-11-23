@@ -1,0 +1,4 @@
+@openzeppelin/=lib/openzeppelin-contracts
+
+src=src
+out=out
